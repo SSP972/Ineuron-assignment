@@ -11,4 +11,4 @@ def generate_folder(Folder_name: str,File_prefix: str ,number_of_py_file: int) -
 
 
 if __name__=="__main__":
-    generate_folder("Python1","Question", 10) 
+    generate_folder("","Question", 12) 
