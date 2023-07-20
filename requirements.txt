@@ -6,3 +6,4 @@ requests
 openpyxl 
 folium
 nltk
+xgboost
